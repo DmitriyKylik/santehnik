@@ -1,0 +1,391 @@
+@media screen and (max-width: 1200px) and (min-width: 992px ){
+
+	.brand img{
+
+		margin-left:33%;
+
+	}
+
+	/*------------------BOOK-CALL----------------*/
+
+	.book-call button{
+	
+		margin:15px 0;	
+
+	}
+
+	.book-call ul{
+
+		width:70%;
+		margin-left: 30px;
+		margin-top: 10px;
+		float: left;
+		
+
+	}
+
+	.book-call ul li{
+	
+		float: left;
+		padding:5px; 
+
+	}
+
+	/*------------------INFO----------------*/
+
+	.right_part{
+		
+		display: none;
+
+	}
+
+		/*------------------BLOCK----------------*/
+
+		.block button{
+
+			margin:5% auto;
+
+		}
+
+		.block ul{ 	
+
+			display: block;
+
+			margin:20px 0;
+
+			padding:0;
+
+		}
+
+		.block ul li{
+
+			width: auto;
+			margin:0 3.5%;
+
+		}
+
+	/*------------------REVIEW----------------*/
+	
+
+		.call-review button{
+
+			margin:0 auto;
+
+		}
+
+	/*------------------CONTACTS----------------*/	
+
+		.phones ul{
+				
+			width:100%;
+		
+			margin-left:0;
+			
+		}
+		
+		.phones ul>li{
+		
+			float: none;	
+		
+		}
+
+
+}
+
+@media screen and (max-width: 992px) and (min-width: 480px){
+
+
+	.brand img{
+
+		margin-left:21%;  
+
+	}
+
+	/*------------------BOOK-CALL----------------*/
+
+
+	.book-call button{
+	
+		float: none;
+		margin:3% 0;	
+
+	}
+
+	.book-call ul{
+	
+		width: 100%;
+		float:none;
+		margin-left: 0px;
+	
+	}
+	
+	.book-call ul li{
+
+	
+		float: left;
+	}
+
+
+	/*------------------INFO----------------*/
+
+	.right_part{
+		
+		display: none;
+
+	}
+
+	/*------------------ABOUT----------------*/
+
+	.about span{
+
+	font-size:7em;  
+	
+	}
+
+	.about  p {
+
+	 font-size:1.2em;
+	 font-weight:600;
+	 line-height:30px; 
+
+	}
+
+
+
+
+		/*------------------BLOCK----------------*/
+
+		.block button{
+
+			margin-bottom:5%;
+			margin-top: 10%;
+
+		}
+
+		.block ul{
+
+			margin:20px 0;
+
+			padding:0;
+
+		}
+
+		.block ul li{
+
+			width: auto;
+			float: none;
+			margin:30px;
+		}
+
+		/*------------------REVIEW----------------*/
+
+		.call-review button{
+		
+			float: none;
+			margin:2% auto;		
+		
+		}
+		/*------------------CONTACTS----------------*/
+
+			.phones ul>li{
+		
+
+			float: none;
+			margin-top:15px; 	
+		
+		}
+
+		/*------------------FormCall----------------*/
+	
+		.formCall{
+
+			display: inline-block;
+			
+		}		
+
+
+	}
+
+@media screen and (max-width: 768px ) and (min-width: 480px ){
+
+	.brand h1{
+
+		font-size:1.9em; 
+
+	}
+
+	/*------------------BOOK-CALL----------------*/
+
+	.book-call ul li{
+	
+		float: none;
+	}
+
+	/*------------------INFO----------------*/
+
+	.call_sant{
+
+		font-size:1.7em; 
+		line-height:40px; 
+
+	}
+
+
+	/*------------------Priorities----------------*/
+
+	.priorities{
+
+	padding:80px 20px;
+
+
+}
+
+
+	/*------------------Modal_Window----------------*/
+
+
+	.modal-wind{
+		
+		width:650px;
+		max-width:100%;
+
+	}
+
+	#qwe img{
+				
+		max-width:100%;
+		float: none;
+		  
+			
+	}
+
+
+}
+
+
+@media screen and (max-width: 480px ){
+
+	.brand{
+
+		padding:0 7px 0;
+
+	}
+
+	.brand img{
+
+		width:29%;
+		margin-left:5%; 
+	
+	}
+
+
+	.brand h1{
+
+		font-size:1.6em; 
+
+	}
+
+	/*------------------BOOK-CALL----------------*/
+
+	.book-call button{
+	
+		float: none;
+		margin:3% 0;
+
+
+	}
+	
+	.book-call ul,.block ul {
+		
+		width: 100%;
+		margin-left: 0;
+		float:none;
+		  
+	 }
+
+	/*------------------INFO----------------*/
+
+	.call_sant{
+
+		font-size:1.7em; 
+		line-height:40px; 
+
+	}
+
+	.right_part{
+		
+		display: none;
+
+	}
+
+	/*------------------BLOCK----------------*/
+
+	.block button {
+		
+		margin:50px 0 20px;
+		  
+	 }
+
+	 .block ul li{
+
+		width: auto;
+		float: none;
+		margin:25px 0;
+
+	 }
+
+	 /*------------------Modal_Window----------------*/
+
+	.modal-wind{
+
+		width:100%; 
+
+	}
+
+
+	#qwe img{
+	
+		max-width:100%;
+		padding:0 10px; 
+	
+	}
+
+	#modal-X{
+
+		position: static;
+		float: right;
+		margin-bottom:5px;
+		margin-right:10px;
+
+	}
+
+	#counter{
+
+
+		position: static;
+		float: right;
+		margin-top:5px;
+		margin-right:10px;  
+
+	}
+
+	/*------------------FormCall----------------*/
+	
+		.formCall{
+
+			display: inline-block;
+			
+		}	
+
+
+	/*------------------REVIEW----------------*/
+
+		.call-review button{
+
+			float: none;
+			margin:2% auto;		
+
+		}
+
+	}
+
