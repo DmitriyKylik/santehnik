@@ -150,7 +150,18 @@
 
 	}
 
+	/*------------------MODAL_WINDOW----------------*/
 
+	#imgWrap {
+
+		text-align: center;
+	}
+
+	#imgWrap img {
+
+		display: inline-block;
+		width: auto;
+	}
 
 
 		/*------------------BLOCK----------------*/
@@ -251,6 +262,12 @@
 
 	}
 
+	#imgWrap img {
+
+		display: block;
+		width: 100%;
+	}
+
 	#qwe img{
 				
 		max-width:100%;
@@ -340,6 +357,12 @@
 
 		width:100%; 
 
+	}
+
+	#imgWrap img {
+
+		display: block;
+		width: 100%;
 	}
 
 
